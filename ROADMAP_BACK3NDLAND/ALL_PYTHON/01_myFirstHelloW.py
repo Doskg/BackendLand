@@ -14,3 +14,9 @@ print(type("Cual es mi tipo de dato"))
 
 print(type(20))
 print(type(1.5))
+# estamos probando la consola de PYTHON
+print("estamos probando la consola de Python1")
+print("estamos probando la consola de Python2")
+print("estamos probando la consola de Python3")
+print("estamos probando la consola de Python4")
+print("estamos probando la consola de Python5")
