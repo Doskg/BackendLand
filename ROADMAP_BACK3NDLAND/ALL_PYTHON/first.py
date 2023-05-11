@@ -1,6 +1,6 @@
 print('Hello World')
 
-"este es un comentario de una sola linea"
+#este es un comentario de una sola linea"
 
 """
 Este
