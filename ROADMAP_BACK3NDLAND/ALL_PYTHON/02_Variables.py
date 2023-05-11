@@ -59,4 +59,15 @@ no me dejaria ya que es fuertemente tipado y cuando se declara la variable solo 
 """
 nombre = "lucas"
 nombre = "pedro"
-print("Hola mundo soy " + nombre)
+edad = 30
+print("Hola mundo soy " + nombre + "y tengo" + str(edad) + " años") #str(edad)=> convierte el valor int en una cadena , ya que el valor de (edad) es entero
+
+#error que nos dio la linea 63
+"""
+  File "c:\Users\Oscar Gonzalez\Documents\GitHub\BackendLand\ROADMAP_BACK3NDLAND\ALL_PYTHON\02_Variables.py", line 63, in <module>
+    print("Hola mundo soy " + nombre + "y tengo" + edad + " a�os")
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+TypeError: can only concatenate str (not "int") to str
+
+"""
+print()
