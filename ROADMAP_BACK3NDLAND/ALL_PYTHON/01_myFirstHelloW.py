@@ -29,5 +29,4 @@ c = a + b
 
 print(c)
 
-
 # esto es un espacio en blanco
