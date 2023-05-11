@@ -28,3 +28,6 @@ b = 3
 c = a + b
 
 print(c)
+
+
+# esto es un espacio en blanco
