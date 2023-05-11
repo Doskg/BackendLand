@@ -24,3 +24,7 @@ print("estamos probando la consola de Python5")
 a = 2
 
 print(a)
+b = 3
+c = a + b
+
+print(c)
