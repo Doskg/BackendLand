@@ -57,3 +57,6 @@ no me dejaria ya que es fuertemente tipado y cuando se declara la variable solo 
  
 
 """
+nombre = "lucas"
+nombre = "pedro"
+print("Hola mundo soy " + nombre)
