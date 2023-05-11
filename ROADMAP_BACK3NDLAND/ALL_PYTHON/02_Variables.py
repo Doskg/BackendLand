@@ -1,5 +1,5 @@
-# Que son las variables.
 # Son contenedores que nos permiten guardar datos. de diferentes tipos.
+# Que son las variables.
 
 a = 2  # se le asigna un valor
 b = a + 1  # los valores se leen de izq a derecha.
