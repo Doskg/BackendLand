@@ -20,3 +20,7 @@ print("estamos probando la consola de Python2")
 print("estamos probando la consola de Python3")
 print("estamos probando la consola de Python4")
 print("estamos probando la consola de Python5")
+
+a = 2
+
+print(a)
