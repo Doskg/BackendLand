@@ -7,3 +7,7 @@ else:
   print("Eeres mayor de edad")
   
 
+"""
+
+Estos son comentarios de varias lineas
+"""
