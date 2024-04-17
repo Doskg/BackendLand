@@ -14,3 +14,7 @@ a=43
 b=23
 c=a+b
 print(c)
+
+#Ejercicios en Python Abril 2024
+
+#
