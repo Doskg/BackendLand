@@ -22,7 +22,7 @@ else:
 #print(Len("hello")--> 4
 #Data Types 
 #Strings "Hello" [0]
-print("Hello", [0])
+print("Hello" [0])
 
 
 
