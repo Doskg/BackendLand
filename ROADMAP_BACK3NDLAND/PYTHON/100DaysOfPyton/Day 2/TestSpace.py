@@ -1,4 +1,6 @@
 
+""" 
+
 c=int(input("Ingresa tu edad: "))
 
 if c==1 and c<18:
@@ -6,8 +8,16 @@ if c==1 and c<18:
 else:
   print("Eeres mayor de edad")
   
+"""
+
+
+"""
+-Data Types
+-Numbers
+-Operations
+-Type Conversion
+-f-Strings
 
 """
 
-Estos son comentarios de varias lineas
-"""
+
