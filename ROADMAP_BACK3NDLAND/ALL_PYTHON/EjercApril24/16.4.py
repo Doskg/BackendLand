@@ -10,7 +10,7 @@ Comentarios de varias lineas
 
 """ 
 
-a=2
-b=3
+a=43
+b=23
 c=a+b
 print(c)
