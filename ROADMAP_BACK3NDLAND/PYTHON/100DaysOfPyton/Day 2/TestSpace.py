@@ -70,7 +70,7 @@ isWinning = True
 #Avoiding to convert every data type to a string
 #---------f-string-----------
 print(f"Your score is {score}, your height is {height}, and you are winning is {isWinning}")
-"""
+
 ################################
 #-------Challenge------------#
 #Life in weeks 90 years is the Goal
@@ -81,6 +81,8 @@ years=90-int(age)
 year_weeks=years*52
 
 print(f"You have {year_weeks} weeks left")
+
+"""
 
 
 
