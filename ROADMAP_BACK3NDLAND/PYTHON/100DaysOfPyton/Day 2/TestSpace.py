@@ -24,26 +24,30 @@ else:
 
 #Data Types 
 #Strings "Hello" [0]
-print("Hello" [0])
+# print("Hello" [0])
 
-#Integer
-primt(123+123)
+# #Integer
+# primt(123+123)
 
-#Float
-print(3.2)
+# #Float
+# print(3.2)
 
-#Boolean
-print(True, False)
+# #Boolean
+# print(True, False)
 
-#len() Does not like to work with Int
-num_char= len(input("Hello World"))
-print("Your name has " + num_char + "characters.")
+# #len() Does not like to work with Int
+# num_char= len(input("Hello World"))
+# print("Your name has " + num_char + "characters.")
 
 
-b = float(1)
-a = "234"
-print(f"el dato {b} + {a} es igual {float(a)+ b}")
+# b = float(1)
+# a = "234"
+# print(f"el dato {b} + {a} es igual {float(a)+ b}")
 
+#1st input, enter height in meters e.g. 1.65
+height=input()
+#2nd input, enter weight in kilograms e.g: 72
+weight=input()
 
 
 
