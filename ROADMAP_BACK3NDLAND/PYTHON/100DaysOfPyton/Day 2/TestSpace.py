@@ -60,7 +60,7 @@ result = 4/2
 print(result)
 
 #user scores a point
- 
+
 # score +=1
 score=0
 height = 1.8
@@ -71,6 +71,17 @@ isWinning = True
 #---------f-string-----------
 print(f"Your score is {score}, your height is {height}, and you are winning is {isWinning}")
 """
+################################
+#-------Challenge------------#
+#Life in weeks 90 years is the Goal
+age=int()
+goal=int()
+age=input('Insert your age: ')
+years=90-int(age)
+year_weeks=years*52
+
+print(f"You have {year_weeks} weeks left")
+
 
 
 
