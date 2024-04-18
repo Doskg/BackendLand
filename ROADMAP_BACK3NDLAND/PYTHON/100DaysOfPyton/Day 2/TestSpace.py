@@ -43,14 +43,34 @@ else:
 # b = float(1)
 # a = "234"
 # print(f"el dato {b} + {a} es igual {float(a)+ b}")
+""""
 
 #1st input, enter height in meters e.g. 1.65
-height=input()
+height=float(input("Insert your own height: "))
 #2nd input, enter weight in kilograms e.g: 72
-weight=input()
+weight=float(input("Insert your own weight: "))
 
+BMI=weight/height**2
+print(f"Your BMI is {BMI}")
 
+print(round(2.6666666666, 2))
+print(type(8//3))
 
+result = 4/2
+print(result)
+
+#user scores a point
+ 
+# score +=1
+score=0
+height = 1.8
+isWinning = True
+
+#print("Your score is " + str(score))
+#Avoiding to convert every data type to a string
+#---------f-string-----------
+print(f"Your score is {score}, your height is {height}, and you are winning is {isWinning}")
+"""
 
 
 
