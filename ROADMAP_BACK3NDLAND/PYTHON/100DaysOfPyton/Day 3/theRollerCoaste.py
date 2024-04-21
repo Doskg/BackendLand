@@ -9,9 +9,12 @@ if height > 120:
     elif age <= 18:
         bill = 7
         print("Youth tickets are $7")
-    else:
+    elif  age >=45 and age <=55:
         bill = 12
         print("Adults tickets are $12")
+    else:# else is optional
+        bill = 0
+        print("Senior citizens tickets are free")
     wants_photo = input("Do you want a photo taken? Y or N:  ")
     if wants_photo == "y":
         # add $3 to their bill
